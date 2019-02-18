@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/krokodil-react/precache-manifest.8201a4dc93df32976b3550935c6c5da5.js"
+  "/krokodil-react/precache-manifest.b6f4df80c29cb7774fed0ea3f58abb9d.js"
 );
 
 workbox.clientsClaim();
