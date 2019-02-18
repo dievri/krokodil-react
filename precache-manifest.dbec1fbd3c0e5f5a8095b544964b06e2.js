@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "955104b302c1a9c3ce70",
+    "revision": "9d6eaa1bacd5f2ca469d",
     "url": "/krokodil-react/static/css/main.c49b89b9.chunk.css"
   },
   {
-    "revision": "955104b302c1a9c3ce70",
-    "url": "/krokodil-react/static/js/main.955104b3.chunk.js"
+    "revision": "9d6eaa1bacd5f2ca469d",
+    "url": "/krokodil-react/static/js/main.9d6eaa1b.chunk.js"
   },
   {
     "revision": "6550dae9f96e4ea0c874",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/krokodil-react/static/js/2.1ad83593.chunk.js"
   },
   {
-    "revision": "4190d4310ff51a949821a8029f770192",
+    "revision": "9f0ebe2242760aca3741a0376a6cecb1",
     "url": "/krokodil-react/index.html"
   }
 ];
